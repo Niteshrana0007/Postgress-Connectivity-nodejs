@@ -1,0 +1,10 @@
+
+Hi Team,
+Tasks list for today 25/02/2022:-
+1. Node and Postgress connection
+2. Express.js Routing
+3. Express.js generator
+4. Request, Response
+5. schemas in postgress
+
+Thanks
